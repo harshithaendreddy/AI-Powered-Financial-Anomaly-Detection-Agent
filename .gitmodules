@@ -1,0 +1,6 @@
+[submodule "Anomaly-Detection-Frontend"]
+	path = Anomaly-Detection-Frontend
+	url = https://github.com/harshithaendreddy/Anomaly-Detection-Frontend.git
+[submodule "Anomaly-Detection-Backend"]
+	path = Anomaly-Detection-Backend
+	url = https://github.com/harshithaendreddy/Anomaly-Detection-Backend.git
